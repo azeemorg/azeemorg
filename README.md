@@ -32,8 +32,7 @@ A conversational application for exploring oceanographic datasets containing mea
 
 ### Technical Interests
 
-I'm interested in backend development, NLP, information retrieval, multi-agent systems, database technologies, and cloud computing. I continue to strengthen my programming fundamentals and explore ways to build reliable, maintainable applications.
-
+I'm an aspiring AI/GenAI Engineer passionate about building intelligent applications using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and multi-agent systems. I'm interested in developing AI-powered solutions that combine effective information retrieval, backend engineering, and database technologies to solve real-world problems. I continuously explore emerging AI technologies and work on building reliable, scalable, and production-ready applications.
 ### Technologies
 
 **Languages:** Python, Java, C, R
@@ -46,9 +45,6 @@ I'm interested in backend development, NLP, information retrieval, multi-agent s
 
 **Tools and Platforms:** Git, GitHub, LangSmith, Streamlit, Gradio, AWS
 
-### Research and Recognition
-
-My work includes research on YouTube comment sentiment analysis, published in the INCOFT-2025 proceedings, and Nyayavani, accepted for an oral presentation at CISCom 2026. I was also a finalist in the VIT Mauritius Tech Ideathon 2026 and received third prize at Eureka 2K26.
 
 ### Connect
 
